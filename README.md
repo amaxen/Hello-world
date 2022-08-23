@@ -1,4 +1,6 @@
 # Hello-world
 Learning 
 
-Do this and that
+Do this and that 
+
+and the other thing. 
